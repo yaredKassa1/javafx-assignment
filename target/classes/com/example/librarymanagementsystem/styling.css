@@ -1,0 +1,19 @@
+#hb{
+-fx-background-color: red;
+-fx-background-image: url("background1.jpg");
+}
+#a{
+-fx-background-color: red;
+}
+#grid{
+-fx-background-image: url("background1.jpg");
+-fx-background-size: stretch;
+}
+#root{
+-fx-background-image: url("library-logo-books.png");
+-fx-background-size: stretch;
+}
+#root1{
+-fx-background-image: url("background2.jpg");
+-fx-background-size: stretch;
+}
